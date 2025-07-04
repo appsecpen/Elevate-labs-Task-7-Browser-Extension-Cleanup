@@ -1,0 +1,1 @@
+# Elevate-labs-Task-7-Browser-Extension-Cleanup
